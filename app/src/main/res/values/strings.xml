@@ -1,3 +1,23 @@
 <resources>
     <string name="app_name">GgcHbuildingMap</string>
+    <string name="txtOverview">Overview - H Building</string>
+    <string name="description1">H Building Image</string>
+    <string name="btnFirstFloor">1st Floor</string>
+    <string name="btnSecondFloor">2nd Floor</string>
+    <string name="btnThirdFloor">3rd Floor</string>
+    <string name="btnAbout">About</string>
+    <string name="btnCampusMap">Campus Map</string>
+    <string name="txtFirstFloor">First Floor</string>
+    <string name="txtSecondFloor">Second Floor</string>
+    <string name="txtThirdFloor">Third Floor</string>
+    <string name="txtCampusMap">Campus Map</string>
+    <string name="txtOwner">By General Grizzly Adefemi E. Kolawole</string>
+    <string name="txtDateCreated">Created Fall 2018</string>
+    <string name="txtAbout">Created for ITEC 4550</string>
+    <string name="labelAbout">About</string>
+    <string name="labelAppName">GGC</string>
+    <string name="labelHBuilding">H - Building</string>
+
+
+
 </resources>
