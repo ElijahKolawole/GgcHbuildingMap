@@ -27,7 +27,7 @@
 
     <ImageView
         android:id="@+id/imgHBuilding"
-        android:layout_width="363dp"
+        android:layout_width="0dp"
         android:layout_height="200dp"
         android:layout_marginBottom="8dp"
         android:layout_marginEnd="24dp"
@@ -36,11 +36,12 @@
         android:layout_marginStart="24dp"
         android:layout_marginTop="8dp"
         android:contentDescription="@string/description1"
+        android:scaleType="fitXY"
         app:layout_constraintBottom_toTopOf="@+id/btnFirstFloor"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/txtOverview"
-        app:srcCompat="@mipmap/ic_launcher" />
+        app:srcCompat="@drawable/hsb" />
 
     <Button
         android:id="@+id/btnFirstFloor"
@@ -128,7 +129,7 @@
         android:layout_marginRight="8dp"
         android:layout_marginStart="8dp"
         android:layout_marginTop="4dp"
-        android:text="@string/labelAbout"
+        android:text="@string/btnAbout"
         android:textAllCaps="false"
         android:textSize="22sp"
         android:textStyle="bold"
