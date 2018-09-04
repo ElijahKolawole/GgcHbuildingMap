@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">GgcHbuildingMap</string>
+    <string name="app_name">GGC</string>
     <string name="txtOverview">Overview - H Building</string>
     <string name="description1">H Building Image</string>
     <string name="btnFirstFloor">1st Floor</string>
@@ -17,7 +17,11 @@
     <string name="labelAbout">About</string>
     <string name="labelAppName">GGC</string>
     <string name="labelHBuilding">H - Building</string>
-
+    <string name="description2">First Floor Image</string>
+    <string name="description3">Second Floor Image</string>
+    <string name="description4">Third Floor Image</string>
+    <string name="description5">About Image</string>
+    <string name="description6">Campus Image</string>
 
 
 </resources>

@@ -16,6 +16,11 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".FirstFloor" android:label="@string/labelHBuilding" />
+        <activity android:name=".SecondFloor" android:label="@string/labelHBuilding"  />
+        <activity android:name=".ThirdFloor" android:label="@string/labelHBuilding" />
+        <activity android:name=".CampusMap" android:label="@string/labelHBuilding"  />
+        <activity android:name=".About" android:label="@string/labelAbout"></activity>
     </application>
 
 </manifest>
